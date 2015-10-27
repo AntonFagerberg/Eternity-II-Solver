@@ -1,0 +1,6 @@
+.idea/*
+*.jar
+output.txt
+project/target/*
+project/project/target/*
+target/*
